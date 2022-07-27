@@ -13,5 +13,3 @@
 
 // //Console.Write($"{result}");
 // File.WriteAllText("db.csv", result, System.Text.Encoding.UTF32);
-
-
